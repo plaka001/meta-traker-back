@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7FiPa91s/VxWCuTg9JkYJTIalbQ0dp3HOEheKcULhhunJySdo9Vz6APLfjicsGSBMtnoXAaYVD3Z9gA3W/he7g==",
+  "success": true,
+  "projectFilePath": "D:\\Estudio\\Back\\Meta-Traker-Back\\MetaTApi\\MetaTApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marlon\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Marlon\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Marlon\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Marlon\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Marlon\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Marlon\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
